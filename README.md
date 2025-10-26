@@ -1,7 +1,9 @@
 # Hi, I'm Paulo
 
-I'm a software engineer who enjoys open source projects
+I'm a software engineer who enjoys open source projects.
+
 Most of my work is in **Elixir**, but I also enjoy working with different languages and technologies.
+
 If you enjoy my work, consider starring some of my repositories!
 
 📫 **Find me here**
