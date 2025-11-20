@@ -8,6 +8,7 @@ If you enjoy my work, consider starring some of my repositories!
 
 📫 **Find me here**
 
+- [Website](https://paulocurado.com)
 - [Telegram](https://t.me/phcurado)
 - [LinkedIn](https://www.linkedin.com/in/paulo-curado-7b46246b)
 - [Calendly](https://calendly.com/phcurado/60min)
